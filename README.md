@@ -3,8 +3,12 @@ This script generates random names of user defined length.
 
 ## Requirements
 Python 3
+
 Numpy
-Agrparse, OS
+
+Agrparse
+
+OS
 
 ## Usage
 ```
